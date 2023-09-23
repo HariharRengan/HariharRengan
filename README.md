@@ -12,7 +12,7 @@
 My modules: <br>
 [![Downloads](https://static.pepy.tech/personalized-badge/mammath?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=Mammath%20downloads)](https://pepy.tech/project/mammath)
 [![Downloads](https://static.pepy.tech/personalized-badge/multifunctionality?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=Multifunctionality%20downloads)](https://pepy.tech/project/multifunctionality)
-[![Downloads](https://static.pepy.tech/personalized-badge/py3dsa?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=py3dsa%20downloads)](https://pepy.tech/project/py3dsa)
+[![Downloads](https://static.pepy.tech/personalized-badge/py3dsa?period=total&units=international_system&left_color=grey&right_color=blue&left_text=py3dsa%20downloads)](https://pepy.tech/project/py3dsa)
 <!---
 HariharRengan/HariharRengan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
