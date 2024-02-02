@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariharrengan&label=Profile%20views&color=0e75b6&style=flat" alt="hariharrengan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariharrengan" alt="hariharrengan" /></a> </p>
-
 - 📫 How to reach me **harihar.rengan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,9 +17,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharrengan&show_icons=true&locale=en&layout=compact" alt="hariharrengan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hariharrengan&show_icons=true&locale=en" alt="hariharrengan" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharrengan&" alt="hariharrengan" /></p>
+
 My modules/libraries (python & pip): <br>
 [![Downloads](https://static.pepy.tech/personalized-badge/mammath?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=Mammath%20downloads)](https://pepy.tech/project/mammath)
 [![Downloads](https://static.pepy.tech/personalized-badge/multifunctionality?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=Multifunctionality%20downloads)](https://pepy.tech/project/multifunctionality)
