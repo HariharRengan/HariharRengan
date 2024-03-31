@@ -24,7 +24,7 @@ My modules/libraries (python & pip): <br>
 [![Downloads](https://static.pepy.tech/personalized-badge/multifunctionality?period=total&units=international_system&left_color=grey&right_color=orange&left_text=Multifunctionality%20downloads)](https://pepy.tech/project/multifunctionality)
 [![Downloads](https://static.pepy.tech/personalized-badge/py3dsa?period=total&units=international_system&left_color=grey&right_color=blue&left_text=py3dsa%20downloads)](https://pepy.tech/project/py3dsa)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariharRengan&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariharRengan&repo=github-readme-stats)](https://github.com/HariharRengan/github-readme-stats)
 <!---
 HariharRengan/HariharRengan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
