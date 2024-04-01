@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harihar Rengan</h1>
-<h3 align="center">A passionate full-stack developer and software engineer</h3>
+<h3 align="center">A passionate full-stack and web developer and software engineer. <br>I have experience in numerous programming languages and frameworks, specializing in Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariharrengan&label=Profile%20views&color=0e75b6&style=flat" alt="hariharrengan" /> </p>
 
