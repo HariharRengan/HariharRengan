@@ -24,6 +24,10 @@ My modules/libraries (python & pip): <br>
 [![Downloads](https://static.pepy.tech/personalized-badge/multifunctionality?period=total&units=international_system&left_color=grey&right_color=orange&left_text=Multifunctionality%20downloads)](https://pepy.tech/project/multifunctionality)
 [![Downloads](https://static.pepy.tech/personalized-badge/py3dsa?period=total&units=international_system&left_color=grey&right_color=blue&left_text=py3dsa%20downloads)](https://pepy.tech/project/py3dsa)
 <br><br>
+
+American Computer Science League Assembler: <br>
+<a href="https://github.com/HariharRengan/ACSL-Assembler">ACSL Assembler Repository</a>
+
 <b>Beta</b> Custom programming language: <br>
 <a href="https://github.com/HariharRengan/harlang">Harlang repository</a>
 <!---
